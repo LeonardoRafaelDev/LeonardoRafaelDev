@@ -1,4 +1,5 @@
-## Oi sou leonardo Rafael <a href="https://app.daily.dev/LeonardoRafaelD"><img src="https://api.daily.dev/devcards/c2f295d292e349379839032cd4132391.png?r=rpd" width="400" alt="Leonardo Rafael Dev's Dev Card"/></a>
+## Oi sou leonardo Rafael 
+<div align="left"><a href="https://app.daily.dev/LeonardoRafaelD"><img src="https://api.daily.dev/devcards/c2f295d292e349379839032cd4132391.png?r=rpd" width="400" alt="Leonardo Rafael Dev's Dev Card"/></a></div>
 <div align="center">
   <a href="https://github.com/LeonardoRafaelDev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoRafaelDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
