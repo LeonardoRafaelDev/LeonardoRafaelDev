@@ -19,6 +19,7 @@
   <img align="center" alt="Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+    <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="leonardo-rafael-porto-dutra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/leonardo-rafael-porto-dutra?trk=profile-badge">Leonardo Rafael Porto Dutra</a></div>
 </div>
   
 ##
