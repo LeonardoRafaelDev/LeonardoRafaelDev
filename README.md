@@ -8,7 +8,7 @@
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRafaelDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LeonardoRafaelDev&bg_color=7935D8&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeonardoRafaelDev&bg_color=000000&color=ffffff&line=ff00ee&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   <a href="https://www.instagram.com/ileonardohe4rt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leonardorafaeldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
